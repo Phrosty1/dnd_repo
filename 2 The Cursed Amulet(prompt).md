@@ -1,3 +1,58 @@
+[INST]
+what is a common thing that a DM will do as a puzzle in their campaigns? 
+[/INST]One common type of puzzle that Dungeon Masters (DMs) often include in their campaigns is a riddle or a series of clues that players must decipher to progress. These puzzles can take many forms, but they often involve:
+
+1. **Word Puzzles**: Riddles, anagrams, or cryptic messages that players must solve using their wits and knowledge. The solution might reveal a secret door, a hidden item, or the next step in their quest.
+
+2. **Environmental Puzzles**: The layout of a room or dungeon might contain clues that players must interpret to proceed. This could involve pressure plates, levers, or other interactive elements that must be manipulated in the correct sequence.
+
+3. **Numerical Puzzles**: A series of numbers or symbols that players must decode to unlock a door, open a chest, or gain access to a secret area. These puzzles often require players to use their knowledge of history, mythology, or the game's lore to find the solution.
+
+4. **Puzzles with a Time Limit**: Some puzzles might have a time limit or a consequence for failure, adding an element of tension and urgency. For example, a room might flood if the players don't solve the puzzle quickly enough, or a trap might activate if they make a mistake.
+
+5. **Puzzles that Require Teamwork**: Some puzzles might require multiple players to work together, each performing a specific action or solving a part of the puzzle. This encourages teamwork and communication among the players.
+
+The key to a good puzzle is that it should be challenging but fair, and it should fit thematically with the campaign and the characters' abilities. A well-designed puzzle can be a memorable and rewarding experience for players, providing a break from combat and encouraging creative problem-solving.
+[INST]
+Characters
+Elmyra: Wizard with all four powerful bloodlines. Has dark brown hair, wears a green dress, always seems perfectly put together.
+Klaus: Human Paladin, handsome, helpful, keeps his hair buzzcut length.
+Kyra: Young child of Elmyra and Klaus who adds cuteness to most scenarios.
+Gudmund: Half elf Rogue archer with his own room.
+Soras: Dragonborn Barbarian with her own room.
+
+Background: At one time, Elmyra, Klaus, Gudmund, and Soras were adventurers in the land of Saal Alora but since Klaus and Elmyra married and had a child, they live in the cliffside mansion with their daughter Kyra. The cliffside mansion is warded and protected, a perfect base of operations. Elmyra and Klaus, being parents to young Kyra, no longer actively adventure themselves. Gudmund and Soras live in the mansion as well and often leave on adventures together. Elmyra doesn't need to do chores because of the Unseen Servants spell so you don't need to mention chores at all. Being a wizard who is related to many across the large island, Elmyra keeps in regular communication with those who may need the help of adventurers.
+
+Saal Alora is a large island with five large cities named after the family that discovered the island, Darfyn and his four sons, in honor of them colonizing the island a thousand years ago. The city of Darfyn on the western bank, Cradoven to the north, Renarian in the middle, Grenwyn to the southwest, Zinfaren on the southeast coast. Despite the cities being named after the family, Darfyn and the sons are only memories within the cities.
+
+Our current story begins in the cliffside mansion in the early morning.
+
+Write a campaign story. Only Soras and Gudmund will be participating as players. Adventurers may not find any of the features, clues, or items. Structure in markdown the following information:
+Title
+
+Tropes Employed (list two common tropes that the story uses)
+
+Story Rough Draft (Write 200 words to lay out the entire arc)
+
+Roleplaying (three new characters) -100 words of backstory -motivations -mannerisms -practical tip for the DM to roleplay as them (This could include suggestions for vocal inflections, gestures, or other non-verbal cues, as well as guidance on how to describe the character's environment, actions, and reactions to create an immersive experience for the players. Please avoid suggesting impractical physical props)
+
+Introduction hook (How the players are brought into the story and how the dungeon master can grab their attention)
+
+Locations (four new locations) -100 word description -Specify schematic details with measurements in feet
+
+Who is met where? -Examine the framework of the story and compile which characters will be in each of the areas to support the story
+
+Stages -clever title -location -events upon arriving -events involving characters (consider who is met where) -events that lead to the next area
+
+Features, Clues, and Items (List up to 5, create interesting bonus elements that are NOT crucial to the plot, but still provide benefits, add flavor, or offer insight) -description -location (place these elements within the established locations) -benefit -skill check needed to obtain them
+
+Consequences (Assume that the heroes will save the day and outline three endings like "If the party decides to...")
+
+Revised Story (Ignore the rough draft and rewrite the entire story arc in 300 words)
+
+Enemies (Provide stat blocks for the new characters and relevant mobs)
+[/INST]I apologize for the confusion and the inconsistencies in my previous response. You're right, I need to be more mindful of the practical aspects of including these elements in a D&D campaign. Here's a revised version in markdown:
+
 ## Title: The Cursed Amulet
 
 ### Tropes Employed

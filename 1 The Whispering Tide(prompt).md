@@ -1,3 +1,47 @@
+[INST]
+what is a common thing that a DM will do as a puzzle in their campaigns? 
+[/INST]One common type of puzzle that Dungeon Masters (DMs) often include in their campaigns is a riddle or a series of clues that players must decipher to progress. These puzzles can take many forms, but they often involve:
+
+1. **Word Puzzles**: Riddles, anagrams, or cryptic messages that players must solve using their wits and knowledge. The solution might reveal a secret door, a hidden item, or the next step in their quest.
+
+2. **Environmental Puzzles**: The layout of a room or dungeon might contain clues that players must interpret to proceed. This could involve pressure plates, levers, or other interactive elements that must be manipulated in the correct sequence.
+
+3. **Numerical Puzzles**: A series of numbers or symbols that players must decode to unlock a door, open a chest, or gain access to a secret area. These puzzles often require players to use their knowledge of history, mythology, or the game's lore to find the solution.
+
+4. **Puzzles with a Time Limit**: Some puzzles might have a time limit or a consequence for failure, adding an element of tension and urgency. For example, a room might flood if the players don't solve the puzzle quickly enough, or a trap might activate if they make a mistake.
+
+5. **Puzzles that Require Teamwork**: Some puzzles might require multiple players to work together, each performing a specific action or solving a part of the puzzle. This encourages teamwork and communication among the players.
+
+The key to a good puzzle is that it should be challenging but fair, and it should fit thematically with the campaign and the characters' abilities. A well-designed puzzle can be a memorable and rewarding experience for players, providing a break from combat and encouraging creative problem-solving.
+[INST]
+Characters
+Elmyra: Wizard with all four powerful bloodlines. Has dark brown hair, wears a green dress, always seems perfectly put together.
+Klaus: Human Paladin, handsome, helpful, keeps his hair buzzcut length.
+Kyra: Young child of Elmyra and Klaus who adds cuteness to most scenarios.
+Gudmund: Halfelf Rogue archer with his own room.
+Soras: Dragonborn Barbarian with her own room.
+
+Background: At one time, Elmyra, Klaus, Gudmund, and Soras were adventurers in the land of Saal Alora but since Klaus and Elmyra married and had a child, they live in the cliffside mansion with their daughter Kyra. Elmyra and Klaus, being parents to young Kyra, no longer actively adventure themselves. Gudmund and Soras live in the mansion as well and often leave on adventures together. Elmyra doesn't need to do chores because of the Unseen Servants spell so you don't need to mention chores at all. Being a wizard who is related to many across the large island, Elmyra keeps in regular communication with those who may need the help of adventurers.
+
+Saal Alora is a large island with five large cities named after Darfyn and his four sons in honor of them colonizing the island a thousand years ago. Darfyn on the western bank, Cradoven to the north, Renarian in the middle, Grenwyn to the southwest, Zinfaren on the southeast coast.
+
+Our current story begins in the cliffside mansion in the early morning.
+
+Write a one shot campaign. Only Soras and Gudmund will be participating as players. Each phase must have multiple possible avenues to allow the story to advance. You'll want to remember that the adventurers may not find any of the features/clues/items. Structure in markdown the following way:
+## Title
+## Tropes Employed (list the small set of common tropes that make up the story)
+## Story Rough Draft (Write 200 words to lay out the entire arc)
+## Roleplaying (For three new characters write 100 words of backstory, then concisely outline their motivations, mannerisms, and a tip on how to roleplay as them)
+## Introduction hook (Explain how the players are brought into the story and how the dungeon master can grab their attention)
+## Locations (For up to four new locations provide 100 word descriptions. Specify schematic details with measurements)
+## Stages (Detail each stage of the story utilizing a location and possibly characters. Each stage gets a clever title)
+## Features/Clues/Items (List up to 5 things that could be discovered, their location, the skill check needed to obtain them, and also how they could be used to benefit the story)
+## Routes (List three likely routes to progress the story through each stage. Persuasion, combat, stealth, etc. Additionally, note how the previous features/clues/items might come into play)
+## Consequences (Assume that the heroes will save the day and outline three endings like "If the party decides to...")
+## Revised Story (Ignore the rough draft and rewrite the entire story arc in 200 words)
+## Enemies (Provide stat blocks for the new characters and relevant mobs)
+[/INST]
+
 ## Title
 The Whispering Tide
 
